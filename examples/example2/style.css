@@ -1,0 +1,16 @@
+svg {
+    background: red;
+}
+
+.face {
+    fill: blue;
+}
+
+.eye {
+    fill:white;
+}
+
+.mouth {
+    fill:white;
+    stroke: black;
+}
